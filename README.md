@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/thejh/node-features.png)](http://travis-ci.org/thejh/node-features)
 Switchable, modular, stackable features for your code. Turn on any transformations you'd like to use.
 
 Usage example:
